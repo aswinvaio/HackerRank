@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful Days at the Movie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{2D61726F-2D6C-49D8-9080-FF61EA703723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping on the Clouds", "Jumping on the Clouds\Jumping on the Clouds.csproj", "{19F92D21-3869-4830-91DC-A2E069940D1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{2D61726F-2D6C-49D8-9080-FF61EA703723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D61726F-2D6C-49D8-9080-FF61EA703723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D61726F-2D6C-49D8-9080-FF61EA703723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F92D21-3869-4830-91DC-A2E069940D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F92D21-3869-4830-91DC-A2E069940D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F92D21-3869-4830-91DC-A2E069940D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F92D21-3869-4830-91DC-A2E069940D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -291,5 +297,6 @@ Global
 		{42517F05-290E-4581-8360-173ABA5F9C69} = {D992285C-71B1-4895-ACE7-A9EA40CEBBE6}
 		{7FAF608D-864E-43DD-AC75-8D808C0930BD} = {42517F05-290E-4581-8360-173ABA5F9C69}
 		{2D61726F-2D6C-49D8-9080-FF61EA703723} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
+		{19F92D21-3869-4830-91DC-A2E069940D1E} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
 	EndGlobalSection
 EndGlobal
