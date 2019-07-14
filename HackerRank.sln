@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max Sum", "Mini-Max Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between_Two_Sets_alg_imp", "Between_Two_Sets_alg_imp\Between_Two_Sets_alg_imp.csproj", "{1945187E-6EF2-4061-A14F-B29BD0C3FD96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{03760A8D-B6A1-4314-9798-13E920E10514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{1945187E-6EF2-4061-A14F-B29BD0C3FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1945187E-6EF2-4061-A14F-B29BD0C3FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1945187E-6EF2-4061-A14F-B29BD0C3FD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03760A8D-B6A1-4314-9798-13E920E10514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03760A8D-B6A1-4314-9798-13E920E10514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03760A8D-B6A1-4314-9798-13E920E10514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03760A8D-B6A1-4314-9798-13E920E10514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -319,5 +325,6 @@ Global
 		{73608E10-3093-452F-AEF8-72ED9EDDB667} = {F0242F7F-AF64-4186-B044-55DACC9A4ED7}
 		{79B56631-DEC9-4547-BB41-5C39D7E4B523} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
 		{1945187E-6EF2-4061-A14F-B29BD0C3FD96} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
+		{03760A8D-B6A1-4314-9798-13E920E10514} = {B000C44C-9A21-4F72-A9F4-E1A0B77EF365}
 	EndGlobalSection
 EndGlobal
