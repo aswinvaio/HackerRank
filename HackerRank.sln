@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Chocolate", "Birth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sub Array Division", "Sub Array Division\Sub Array Division.csproj", "{8707A564-DDB0-4933-8C0F-477B8B4727F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Hurdle Race", "The Hurdle Race\The Hurdle Race.csproj", "{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{8707A564-DDB0-4933-8C0F-477B8B4727F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8707A564-DDB0-4933-8C0F-477B8B4727F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8707A564-DDB0-4933-8C0F-477B8B4727F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -375,6 +381,7 @@ Global
 		{16A09583-12A4-4313-B426-278461CBB848} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
 		{72F02132-EE7C-4174-BCFA-D0FD52050A22} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
 		{8707A564-DDB0-4933-8C0F-477B8B4727F7} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
+		{9EB19BB8-0090-4FA3-A1C3-0628DCC235FA} = {B36D2A10-7953-49F0-807B-D71FAF7264EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA5E53D2-9155-4761-AB39-F04231326C8A}
